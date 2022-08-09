@@ -2,5 +2,5 @@
 cloned from private school repo, so no commit history
 
 
-repo: [https://github.com/madkorney/sharp-store](https://github.com/madkorney/sharp-store)
+repo: [https://github.com/madkorney/sharp-store](https://github.com/madkorney/sharp-store)  
 deploy: [https://madkorney.github.io/sharp-store/](https://madkorney.github.io/sharp-store/)
