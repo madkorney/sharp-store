@@ -1,0 +1,1088 @@
+[
+  {
+    "ID" : "k00001",
+    "name" : "Steep Country",
+    "modelID" : "15006",
+    "description" : "Designed for the sweet spot of hunter preference; the newly redesigned 15006 Steep Country is a versatile fixed-blade capable of performing throughout any season, on any specie. High visibility Santoprene handles make it easy to keep track of the knife when things start to get Western, and provide ample grip in slippery conditions with a redesigned handle texture. With precision in mind, the updated blade thickness and jimping location will make the last cut feel just as effortless as the firs",
+    "priceValue" : 14000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Benchmade",
+    "year" : 2008,
+    "color" : "orange",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00001-p.jpg", "k00001-0.jpg", "k00001-1.jpg","k00001-2.jpg","k00001-3.jpg"],
+    "features" : {
+      "bladeSteel" : "CPM-S30V",
+      "handleMaterial": "Santoprene",
+      "weightGramms" : 105,
+      "lengthMm" : 197,
+      "bladeLengthMm" : 90,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00002",
+    "name" : "Silver Carbinox Mini",
+    "modelID" : "",
+    "description" : "Small but handy utility knife",
+    "priceValue" : 4025,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Martiini",
+    "year" : 2008,
+    "color" : "black",
+    "countryOfOrigin" : "Finland",
+    "pictures" : ["k00002-p.jpg", "k00002-0.jpg", "k00002-1.jpg","k00002-2.jpg","k00002-3.jpg"],
+    "features" : {
+      "bladeSteel" : "Carbinox T508",
+      "handleMaterial": "Resin",
+      "weightGramms" : 54,
+      "lengthMm" : 165,
+      "bladeLengthMm" : 65,
+      "bladeThiknessMm" : 2,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor"]
+  },
+  {
+    "ID" : "k00003",
+    "name" : "Swiss Army Pocket Knife",
+    "modelID" : "DE-GM 9305297",
+    "description" : "Small but handy utility knife",
+    "priceValue" : 2008,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t002",
+        "name" : "folder"
+      },
+      "id": "a001b001t002"
+    },
+    "brand" : "Victorinox",
+    "year" : 1995,
+    "color" : "black",
+    "countryOfOrigin" : "Switzerland",
+    "pictures" : ["k00003-p.jpg", "k00003-0.jpg", "k00003-1.jpg","k00003-2.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Plastic",
+      "weightGramms" : 99,
+      "lengthMm" : 195,
+      "bladeLengthMm" : 85,
+      "bladeThiknessMm" : 2,
+      "bladeStyle" : "Drop-point",
+      "lockType" : "liner-lock"
+    },
+    "useCases" : ["outdoor", "EDC"]
+  },
+  {
+    "ID" : "k00004",
+    "name" : "Steep Country",
+    "modelID" : "15006",
+    "description" : "Designed for the sweet spot of hunter preference; the newly redesigned 15006 Steep Country is a versatile fixed-blade capable of performing throughout any season, on any specie. High visibility Santoprene handles make it easy to keep track of the knife when things start to get Western, and provide ample grip in slippery conditions with a redesigned handle texture. With precision in mind, the updated blade thickness and jimping location will make the last cut feel just as effortless as the firs",
+    "priceValue" : 14000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Benchmade",
+    "year" : 2008,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00004-p.jpg", "k00004-0.jpg", "k00004-1.jpg","k00004-2.jpg","k00004-3.jpg"],
+    "features" : {
+      "bladeSteel" : "CPM-S30V",
+      "handleMaterial": "Santoprene",
+      "weightGramms" : 105,
+      "lengthMm" : 197,
+      "bladeLengthMm" : 90,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00005",
+    "name" : "Vantage Pro",
+    "modelID" : "0347",
+    "description" : "Special version of popular Buck Vantage with S30V steel oon blade",
+    "priceValue" : 6500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t002",
+        "name" : "folder"
+      },
+      "id": "a001b001t002"
+    },
+    "brand" : "Buck",
+    "year" : 1995,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00005-p.jpg", "k00005-0.jpg", "k00005-1.jpg","k00005-2.jpg","k00005-3.jpg"],
+    "features" : {
+      "bladeSteel" : "CPM-S30V",
+      "handleMaterial": "G-10",
+      "weightGramms" : 99,
+      "lengthMm" : 193,
+      "bladeLengthMm" : 80,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Drop-point",
+      "lockType" : "liner-lock"
+    },
+    "useCases" : ["outdoor", "EDC"]
+  },
+  {
+    "ID" : "k00006",
+    "name" : "Training Tomahawk",
+    "modelID" : "",
+    "description" : "Soft plastic trainig tomahawk style Axe",
+    "priceValue" : 1500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b002",
+        "name" : "Axes"
+      },
+      "level2": {
+        "id" : "t004",
+        "name" : "training"
+      },
+      "id": "a001b002t004"
+    },
+    "brand" : "Other",
+    "year" : 2020,
+    "color" : "black",
+    "countryOfOrigin" : "China",
+    "pictures" : ["k00006-p.jpg", "k00006-0.jpg"],
+    "features" : {
+      "handleMaterial": "Plastic",
+      "weightGramms" : 210,
+      "lengthMm" : 370
+    },
+    "useCases" : ["training"]
+  },
+  {
+    "ID" : "k00007",
+    "name" : "Forged Axe N2",
+    "modelID" : "",
+    "description" : "Custom Axe from RusBer blacksmith",
+    "priceValue" : 11000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b002",
+        "name" : "Axes"
+      },
+      "level2": {
+        "id" : "t005",
+        "name" : "regular"
+      },
+      "id": "a001b002t005"
+    },
+    "brand" : "RusBer",
+    "year" : 2021,
+    "color" : "black",
+    "countryOfOrigin" : "Russia",
+    "pictures" : ["k00007-p.jpg", "k00007-0.jpg", "k00007-1.jpg"],
+    "features" : {
+      "handleMaterial": "Ash Wood",
+      "weightGramms" : 560,
+      "lengthMm" : 280
+    },
+    "useCases" : ["outdoor"]
+  },
+  {
+    "ID" : "k00008",
+    "name" : "Pocket knife/hook sharpener",
+    "modelID" : "",
+    "description" : "Small pocket sharpener for quick blade or fiahing hook fix",
+    "priceValue" : 1000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b003",
+        "name" : "Accessories"
+      },
+      "level2": {
+        "id" : "t006",
+        "name" : "sharpening tool"
+      },
+      "id": "a001b003t006"
+    },
+    "brand" : "Other",
+    "year" : 2015,
+    "color" : "red",
+    "countryOfOrigin" : "China",
+    "pictures" : ["k00008-p.jpg", "k00008-0.jpg"],
+    "features" : {
+      "weightGramms" : 21
+    },
+    "useCases" : ["EDC", "fishing"]
+  },
+  {
+    "ID" : "k00009",
+    "name" : "Scout",
+    "modelID" : "",
+    "description" : "Tactical kitchen knife",
+    "priceValue" : 14500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Mr. Blade",
+    "year" : 2008,
+    "color" : "black",
+    "countryOfOrigin" : "Czech",
+    "pictures" : ["k00009-p.jpg", "k00009-0.jpg", "k00009-1.jpg","k00009-2.jpg","k00009-3.jpg"],
+    "features" : {
+      "bladeSteel" : "AUS8",
+      "handleMaterial": "plastic",
+      "weightGramms" : 207,
+      "lengthMm" : 265,
+      "bladeLengthMm" : 135,
+      "bladeThiknessMm" : 4,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00010",
+    "name" : "Peltonen M95",
+    "modelID" : "",
+    "description" : "A sturdy and reliable ranger knife from Finland",
+    "priceValue" : 9000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Fiskars",
+    "year" : 2008,
+    "color" : "black",
+    "countryOfOrigin" : "Finland",
+    "pictures" : ["k00010-p.jpg", "k00010-0.jpg", "k00010-1.jpg","k00010-2.jpg","k00010-3.jpg"],
+    "features" : {
+      "bladeSteel" : "80CrV2",
+      "handleMaterial": "Santoprene",
+      "weightGramms" : 211,
+      "lengthMm" : 275,
+      "bladeLengthMm" : 150,
+      "bladeThiknessMm" : 4,
+      "bladeStyle" : "Puukko"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00011",
+    "name" : "NR 40",
+    "modelID" : "",
+    "description" : "Nozh razvedchika obr. 1940, replica",
+    "priceValue" : 2000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Zlatoust",
+    "year" : 2008,
+    "color" : "black",
+    "countryOfOrigin" : "Russia",
+    "pictures" : ["k00011-p.jpg", "k00011-0.jpg", "k00011-1.jpg","k00011-2.jpg","k00011-3.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Santoprene",
+      "weightGramms" : 93,
+      "lengthMm" : 265,
+      "bladeLengthMm" : 148,
+      "bladeThiknessMm" : 2,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00012",
+    "name" : "Bear",
+    "modelID" : "",
+    "description" : "Sturdy outdoor knife",
+    "priceValue" : 7500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "other",
+    "year" : 2008,
+    "color" : "brown",
+    "countryOfOrigin" : "Russia",
+    "pictures" : ["k00012-p.jpg", "k00012-0.jpg", "k00012-1.jpg","k00012-2.jpg","k00012-3.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Leather",
+      "weightGramms" : 210,
+      "lengthMm" : 235,
+      "bladeLengthMm" : 120,
+      "bladeThiknessMm" : 4,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00013",
+    "name" : "Rant Bowie",
+    "modelID" : "",
+    "description" : "Hunting/outdor medium knife",
+    "priceValue" : 14000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Benchmade",
+    "year" : 2006,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00013-p.jpg", "k00013-0.jpg", "k00013-1.jpg","k00013-2.jpg","k00013-3.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Santoprene",
+      "weightGramms" : 185,
+      "lengthMm" : 230,
+      "bladeLengthMm" : 110,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Bowie"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00014",
+    "name" : "Naparnik D2",
+    "modelID" : "",
+    "description" : "Custome version of popular Naparnick model from RusBer",
+    "priceValue" : 11500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "RusBer",
+    "year" : 2008,
+    "color" : "gray",
+    "countryOfOrigin" : "Russia",
+    "pictures" : ["k00014-p.jpg", "k00014-0.jpg", "k00014-1.jpg","k00014-2.jpg","k00014-3.jpg"],
+    "features" : {
+      "bladeSteel" : "D2",
+      "handleMaterial": "Mikarta",
+      "weightGramms" : 197,
+      "lengthMm" : 243,
+      "bladeLengthMm" : 125,
+      "bladeThiknessMm" : 2,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00015",
+    "name" : "Pendleton Hunter",
+    "modelID" : "Pendleton Hunter",
+    "description" : "Handy outdoor and hunting knife",
+    "priceValue" : 17500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Cold Steel",
+    "year" : 1998,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00015-p.jpg", "k00015-0.jpg", "k00015-1.jpg","k00015-2.jpg","k00015-3.jpg"],
+    "features" : {
+      "bladeSteel" : "VG-1",
+      "handleMaterial": "Resin",
+      "weightGramms" : 155,
+      "lengthMm" : 207,
+      "bladeLengthMm" : 85,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00016",
+    "name" : "Condor Big Game Hunter",
+    "modelID" : "",
+    "description" : "Custome vrsion of popular N",
+    "priceValue" : 11000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Martiini",
+    "year" : 2008,
+    "color" : "black",
+    "countryOfOrigin" : "Finland",
+    "pictures" : ["k00016-p.jpg", "k00016-0.jpg", "k00016-1.jpg","k00016-2.jpg","k00016-3.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Santoprene",
+      "weightGramms" : 140,
+      "lengthMm" : 253,
+      "bladeLengthMm" : 127,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Puukko"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00017",
+    "name" : "Vanguard 692 440C",
+    "modelID" : "692C",
+    "description" : "Polpular Buck drop point",
+    "priceValue" : 8000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Buck",
+    "year" : 2000,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00017-p.jpg", "k00017-0.jpg", "k00017-1.jpg","k00017-2.jpg","k00017-3.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Resin",
+      "weightGramms" : 186,
+      "lengthMm" : 215,
+      "bladeLengthMm" : 93,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00018",
+    "name" : "Izula II",
+    "modelID" : "",
+    "description" : "Great copy of ESEE Izula",
+    "priceValue" : 4000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "other",
+    "year" : 2010,
+    "color" : "gray",
+    "countryOfOrigin" : "China",
+    "pictures" : ["k00018-p.jpg", "k00018-0.jpg", "k00018-1.jpg","k00018-2.jpg","k00018-3.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Paracord",
+      "weightGramms" : 72,
+      "lengthMm" : 165,
+      "bladeLengthMm" : 80,
+      "bladeThiknessMm" : 2,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00019",
+    "name" : "Custom Leather sneath",
+    "modelID" : "",
+    "description" : "Handmade Lether sneath for Buck 192",
+    "priceValue" : 1000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b003",
+        "name" : "Accessories"
+      },
+      "level2": {
+        "id" : "t003",
+        "name" : "sneath"
+      },
+      "id": "a001b003t003"
+    },
+    "brand" : "handmade",
+    "year" : 2016,
+    "color" : "black",
+    "countryOfOrigin" : "Russia",
+    "pictures" : ["k00019-p.jpg", "k00019-0.jpg","k00019-1.jpg"],
+    "features" : {
+      "weightGramms" : 50,
+      "accessoryFor" : ["k00017", "k00020"]
+    },
+    "useCases" : []
+  },
+  {
+    "ID" : "k00020",
+    "name" : "Vanguard 692 S30V",
+    "modelID" : "692",
+    "description" : "Polpular Buck drop point",
+    "priceValue" : 16000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Buck",
+    "year" : 2000,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00020-p.jpg", "k00020-0.jpg", "k00020-1.jpg","k00020-2.jpg","k00020-3.jpg"],
+    "features" : {
+      "bladeSteel" : "CPM-S30V",
+      "handleMaterial": "Resin",
+      "weightGramms" : 186,
+      "lengthMm" : 215,
+      "bladeLengthMm" : 93,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00021",
+    "name" : "F1",
+    "modelID" : "",
+    "description" : "Official survival knife Swedish Air Force pilots since 1995",
+    "priceValue" : 15500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Falkniven",
+    "year" : 2010,
+    "color" : "black",
+    "countryOfOrigin" : "Sweden",
+    "pictures" : ["k00021-p.jpg", "k00021-0.jpg", "k00021-1.jpg","k00021-2.jpg","k00021-3.jpg"],
+    "features" : {
+      "bladeSteel" : "VG10",
+      "handleMaterial": "Resin",
+      "weightGramms" : 85,
+      "lengthMm" : 197,
+      "bladeLengthMm" : 90,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "hunting"]
+  },
+  {
+    "ID" : "k00022",
+    "name" : "RSK2",
+    "modelID" : "RSK2",
+    "description" : "Large survival knife with adjustable weight balance",
+    "priceValue" : 19000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Doug Ritter",
+    "year" : 2005,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00022-p.jpg", "k00022-0.jpg", "k00022-1.jpg","k00022-2.jpg","k00022-3.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Plastic",
+      "weightGramms" : 380,
+      "lengthMm" : 290,
+      "bladeLengthMm" : 152,
+      "bladeThiknessMm" : 4,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "survival"]
+  },
+  {
+    "ID" : "k00023",
+    "name" : "Leatherneck SF",
+    "modelID" : "",
+    "description" : "Solid Tactical Bowie",
+    "priceValue" : 19000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Cold Steel",
+    "year" : 2010,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00023-p.jpg", "k00023-0.jpg", "k00023-1.jpg","k00023-2.jpg","k00023-3.jpg"],
+    "features" : {
+      "bladeSteel" : "D2",
+      "handleMaterial": "Resin",
+      "weightGramms" : 343,
+      "lengthMm" : 300,
+      "bladeLengthMm" : 177,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Bowie"
+    },
+    "useCases" : ["outdoor", "survival"]
+  },
+  {
+    "ID" : "k00024",
+    "name" : "Candiru",
+    "modelID" : "",
+    "description" : "Small but handy",
+    "priceValue" : 7300,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "ESEE",
+    "year" : 2010,
+    "color" : "orange",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00024-p.jpg", "k00024-0.jpg", "k00024-1.jpg","k00024-2.jpg","k00024-3.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Mikarta",
+      "weightGramms" : 60,
+      "lengthMm" : 130,
+      "bladeLengthMm" : 60,
+      "bladeThiknessMm" : 2,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "EDC"]
+  },
+  {
+    "ID" : "k00025",
+    "name" : "Mora 2000",
+    "modelID" : "10629",
+    "description" : "Mora 2000 Expedition edition",
+    "priceValue" : 6000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "Mora",
+    "year" : 2010,
+    "color" : "green",
+    "countryOfOrigin" : "Sweden",
+    "pictures" : ["k00025-p.jpg", "k00025-0.jpg", "k00025-1.jpg","k00025-2.jpg","k00025-3.jpg"],
+    "features" : {
+      "bladeSteel" : "Sandvik 12C27",
+      "handleMaterial": "Resin",
+      "weightGramms" : 105,
+      "lengthMm" : 235,
+      "bladeLengthMm" : 105,
+      "bladeThiknessMm" : 2,
+      "bladeStyle" : "Puukko"
+    },
+    "useCases" : ["outdoor", "survival"]
+  },
+  {
+    "ID" : "k00026",
+    "name" : "Izula II",
+    "modelID" : "",
+    "description" : "Original Izula II",
+    "priceValue" : 4000,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t001",
+        "name" : "fixed"
+      },
+      "id": "a001b001t001"
+    },
+    "brand" : "ESEE",
+    "year" : 2010,
+    "color" : "orange",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00026-p.jpg", "k00026-0.jpg", "k00026-1.jpg","k00026-2.jpg","k00026-3.jpg"],
+    "features" : {
+      "bladeSteel" : "440C",
+      "handleMaterial": "Mikarta",
+      "weightGramms" : 89,
+      "lengthMm" : 170,
+      "bladeLengthMm" : 70,
+      "bladeThiknessMm" : 2,
+      "bladeStyle" : "Drop-point"
+    },
+    "useCases" : ["outdoor", "survival", "EDC"]
+  },
+  {
+    "ID" : "k00027",
+    "name" : "Wildfire",
+    "modelID" : "",
+    "description" : "Legendary Wildfire by Camillus with ROBO POWER assist",
+    "priceValue" : 6500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t002",
+        "name" : "folder"
+      },
+      "id": "a001b001t002"
+    },
+    "brand" : "Camillus",
+    "year" : 1995,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00027-p.jpg", "k00027-0.jpg", "k00027-1.jpg","k00027-2.jpg","k00027-3.jpg"],
+    "features" : {
+      "bladeSteel" : "AUS8",
+      "handleMaterial": "plastic",
+      "weightGramms" : 136,
+      "lengthMm" : 205,
+      "bladeLengthMm" : 87,
+      "bladeThiknessMm" : 2,
+      "bladeStyle" : "Bowie",
+      "lockType" : "liner-lock"
+    },
+    "useCases" : ["outdoor", "EDC"]
+  },
+  {
+    "ID" : "k00028",
+    "name" : "Neopren sneath",
+    "modelID" : "",
+    "description" : "Neopren sneath for pocket knives",
+    "priceValue" : 500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b003",
+        "name" : "Accessories"
+      },
+      "level2": {
+        "id" : "t003",
+        "name" : "sneath"
+      },
+      "id": "a001b003t003"
+    },
+    "brand" : "other",
+    "year" : 2010,
+    "color" : "black",
+    "countryOfOrigin" : "China",
+    "pictures" : ["k00028-p.jpg", "k00028-0.jpg"],
+    "features" : {
+      "weightGramms" : 20,
+      "accessoryFor" : ["a001b001t002"]
+    },
+    "useCases" : []
+  },
+  {
+    "ID" : "k00029",
+    "name" : "Small Axe",
+    "modelID" : "",
+    "description" : "Small outdoor Axe",
+    "priceValue" : 6500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b002",
+        "name" : "Axes"
+      },
+      "level2": {
+        "id" : "t005",
+        "name" : "regular"
+      },
+      "id": "a001b002t005"
+    },
+    "brand" : "Fiskars",
+    "year" : 2010,
+    "color" : "black",
+    "countryOfOrigin" : "Finland",
+    "pictures" : ["k00029-p.jpg", "k00029-0.jpg", "k00029-1.jpg"],
+    "features" : {
+      "handleMaterial": "Plastic",
+      "weightGramms" : 560,
+      "lengthMm" : 280
+    },
+    "useCases" : ["outdoor"]
+  },
+  {
+    "ID" : "k00030",
+    "name" : "Ultimate Hunter",
+    "modelID" : "CS-30U",
+    "description" : "Made from American S35VN Steel, the Ultimate Hunter is hand-ground to a razor edge that will last an amazingly long time. The heavily bead blasted, CNC machined G-10 handles are comfortably smooth, while still giving a very secure, safe grip.",
+    "priceValue" : 17500,
+    "category" : {
+      "level0": {
+        "id" : "a001",
+        "name" : "Knives and Axes"
+      },
+      "level1": {
+        "id" : "b001",
+        "name" : "Knives"
+      },
+      "level2": {
+        "id" : "t002",
+        "name" : "folder"
+      },
+      "id": "a001b001t002"
+    },
+    "brand" : "Cold Steel",
+    "year" : 1995,
+    "color" : "black",
+    "countryOfOrigin" : "USA",
+    "pictures" : ["k00030-p.jpg", "k00030-0.jpg", "k00030-1.jpg","k00030-2.jpg","k00030-3.jpg"],
+    "features" : {
+      "bladeSteel" : "S35VN",
+      "handleMaterial": "G-10",
+      "weightGramms" : 138,
+      "lengthMm" : 217,
+      "bladeLengthMm" : 87,
+      "bladeThiknessMm" : 3,
+      "bladeStyle" : "Drop-point",
+      "lockType" : "Tri-Ad Lock"
+    },
+    "useCases" : ["outdoor", "EDC"]
+  }
+]

@@ -1,0 +1,26 @@
+// Variables
+// --------------------------
+
+
+// colors --------------------
+$color-base: #aaa;
+$color-light: #ccc;
+$color-light-xl: #eee;
+$color-dark: #888;
+$color-dark-xl: #333;
+
+$color-red: red;
+$color-red-dark: rgb(163, 0, 0);
+$color-red-light: rgb(255, 70, 70);
+
+$color-black: black;
+
+
+// sizes --------------------
+$card-width: 200px;
+$card-height: 360px;
+$filter-box-width: 300px;
+$filter-box-min-width: 250px;
+$cards-box-min-width: 214px;
+$main-min-width: 464px;
+// calc($filter-box-min-width + $cards-box-min-width);

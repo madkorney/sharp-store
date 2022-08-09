@@ -1,0 +1,34 @@
+[
+  {
+    "id" : "u001",
+    "name" : "outdoor"
+  },
+  {
+    "id" : "u002",
+    "name" : "hunting"
+  },
+  {
+    "id" : "u003",
+    "name" : "EDC"
+  },
+  {
+    "id" : "u004",
+    "name" : "kitchen"
+  },
+  {
+    "id" : "u005",
+    "name" : "training"
+  },
+  {
+    "id" : "u006",
+    "name" : "fishing"
+  },
+  {
+    "id" : "u007",
+    "name" : "survival"
+  },
+  {
+    "id" : "u008",
+    "name" : "tactical"
+  }
+]

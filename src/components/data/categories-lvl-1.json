@@ -1,0 +1,18 @@
+[
+  {
+    "id" : "b001",
+    "name" : "Knives"
+  },
+  {
+    "id" : "b002",
+    "name" : "Axes"
+  },
+  {
+    "id" : "b003",
+    "name" : "Accessories"
+  },
+  {
+    "id" : "b004",
+    "name" : "Shotguns"
+  }
+]
